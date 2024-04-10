@@ -1,7 +1,7 @@
 ![Web Developer](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/435498538_1194881424830091_7266674406945567408_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Cz4TREVu4sQAb76m0mY&_nc_ht=scontent-sin6-2.xx&oh=00_AfDrCqWYObFcotSozETshl8P2yHSrhR9Iv4h8nkzUyFNYA&oe=661CA83F)
 
 
-### Hi there 👋, I'm Md Rubel
+### Hi there 👋, I'm MD RUBEL
 #### Web Developer
 
 
@@ -9,7 +9,7 @@ Hey, I'm Md Rubel a Front-End developer passionate about bringing websites to li
 
 Skills:  REACT / JS / HTML / CSS/ TAILWIND CSS/ NEXTJS
 
-- 🌱 I’m currently learning JavaScript / NextJs 
+- 🌱 I’m currently learning JavaScript / NextJs / Redux
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Developer 
 

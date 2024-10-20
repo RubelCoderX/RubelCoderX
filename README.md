@@ -9,7 +9,7 @@ I'm currently a full-stack developer with a passion for building web application
 
 ---
 
-![GIF](https://media.giphy.com/media/l0MYRYDFYI6Ujm5Ec/giphy.gif) <!-- Replace with a GIF of your choice -->
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace with a GIF of your choice -->
 
 ---
 

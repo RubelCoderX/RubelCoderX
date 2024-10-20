@@ -56,8 +56,10 @@ I hold a Bachelor's degree in Computer Science and Engineering from Parul Univer
 ---
 
 ## 📊 GitHub Stats:
-![Rubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical)
-![Rubel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubelCoderX&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical" alt="Rubel's GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RubelCoderX&theme=radical" alt="Rubel's GitHub Streak" style="width: 48%;" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical" alt="Top Languages" />
 </div>

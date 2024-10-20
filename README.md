@@ -1,12 +1,14 @@
 # Hey 👋, I'm Md Rubel
+I’m a MERN stack developer focused on building user-friendly and efficient web applications.
 
-I'm currently a full-stack developer with a passion for building web applications. I am working on a few side projects, sharpening my skills, and learning new technologies along the way.
+## 🎓 Education
+I hold a Bachelor's degree in Computer Science and Engineering from Parul University, India. During my studies, I gained a solid foundation in programming, algorithms, and software development, which fueled my passion for building innovative web applications. I am continuously working on side projects to apply what I've learned and explore new technologies.
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rubel/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rubel29879) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029247340444&mibextid=zbwkwl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rubelportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rubel-portfolio-one.vercel.app/)
 
 ---
 
@@ -16,17 +18,19 @@ I'm currently a full-stack developer with a passion for building web application
 
 ## ⚡ A Few Quick Facts
 
-- 🌱 I'm currently working on improving my React and Node.js skills.
+- 🌱 I'm currently working on improving my Vue Js skills.
 - 🧠 Learning serverless architectures and building scalable web apps.
-- 📚 I write about web development and tech on my [blog](https://rubelblog.com). 
+- 📚 I write about web development and tech on my [blog](https://www.linkedin.com/in/prince-rubel/). 
 - 💬 Ping me about web development, React, Node, and TypeScript.
 - 📄 Check out my [resume](https://rubelresume.com).
-- 🎯 Fun fact: I can code in three different languages!
+- 🎯 Fun fact: I think I'm Funny!
 
 ---
 
 ## 📂 Recent Projects
-- 🔗 [Explore my latest projects on GitHub](https://github.com/RubelCoderX)
+- 🔗 [Car Rental Reservation](https://car-rental-reservation-client.vercel.app/)
+- 🔗 [Tech Tips Trick Hub](https://tech-tips-trick-hub-frontend-lac.vercel.app/)
+
 
 ---
 

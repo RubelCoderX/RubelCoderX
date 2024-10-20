@@ -8,7 +8,7 @@ I'm currently a full-stack developer with a passion for building web application
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029247340444&mibextid=zbwkwl)
 
 ---
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="400px" /><!-- Replace with a GIF of your choice -->
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)" width="100%" height="400px" /><!-- Replace with a GIF of your choice -->
 
 ---
 

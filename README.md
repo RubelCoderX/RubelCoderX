@@ -1,30 +1,18 @@
-![Web Developer](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/435498538_1194881424830091_7266674406945567408_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Cz4TREVu4sQAb76m0mY&_nc_ht=scontent-sin6-2.xx&oh=00_AfDrCqWYObFcotSozETshl8P2yHSrhR9Iv4h8nkzUyFNYA&oe=661CA83F)
+# 💫 About Me:
+I'm currently studying computer science & engineering
 
 
-### Hi there 👋, I'm MD RUBEL
-#### Web Developer
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rubel29879) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100029247340444&mibextid=zbwkwl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-rubel/) 
 
+# 💻 Tech Stack:
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RubelCoderX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RubelCoderX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Hey, I'm Md Rubel a Front-End developer passionate about bringing websites to life. Proficient in HTML, CSS, and JavaScript and popular framework like React I specialize in creating visually appealing and user-friendly interfaces. I believe in the power of design and code working seamlessly together to craft digital experiences. Let's collaborate and turn your ideas into a standout online presence!paste and use in your profile.
+---
+[![](https://visitcount.itsvg.in/api?id=RubelCoderX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Skills:  REACT / JS / HTML / CSS/ TAILWIND CSS/ NEXTJS
-
-- 🌱 I’m currently learning JavaScript / NextJs / Redux
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Developer 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeRubel1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prince-rubel//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100029247340444&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rubel-portfolio-one.vercel.app/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=princeRubel1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeRubel1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=princeRubel1&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/princeRubel1)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=princeRubel1)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,4 +1,4 @@
-# Hey 👋, I'm Md Rubel
+# Hey 👋, I'm MD RUBEL
 I’m a MERN stack developer focused on building user-friendly and efficient web applications.
 
 ## 🎓 Education

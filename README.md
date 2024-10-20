@@ -54,7 +54,9 @@ I'm currently a full-stack developer with a passion for building web application
 ## 📊 GitHub Stats:
 ![Rubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical)
 ![Rubel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubelCoderX&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical)
+</p>
 
 ---
 

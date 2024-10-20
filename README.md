@@ -1,4 +1,4 @@
-# Hey 👋, I'm Rubel
+# Hey 👋, I'm Md Rubel
 
 I'm currently a full-stack developer with a passion for building web applications. I am working on a few side projects, sharpening my skills, and learning new technologies along the way.
 
@@ -42,7 +42,8 @@ I'm currently a full-stack developer with a passion for building web application
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ## 🏆 GitHub Trophies:
@@ -52,7 +53,7 @@ I'm currently a full-stack developer with a passion for building web application
 
 ## 📊 GitHub Stats:
 ![Rubel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical)
-![Rubel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubelCoderX&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical)
 
 ---

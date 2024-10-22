@@ -1,5 +1,5 @@
 # Hey 👋, I'm MD RUBEL
-I’m a MERN stack developer focused on building user-friendly and efficient web applications.
+I’m a full stack developer focused on building user-friendly and efficient web applications.
 
 ## 🎓 Education
 I hold a Bachelor's degree in Computer Science and Engineering from Parul University, India. During my studies, I gained a solid foundation in programming, algorithms, and software development, which fueled my passion for building innovative web applications. I am continuously working on side projects to apply what I've learned and explore new technologies.

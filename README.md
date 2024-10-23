@@ -17,7 +17,7 @@
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahal5&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Fahim's GitHub streak"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubelCoderX&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Rubel's GitHub streak"/>
 </p>
 
 <h2 align="left">🌐 Connect with Me</h2>

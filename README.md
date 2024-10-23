@@ -87,16 +87,16 @@
 <h2 align="left">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahal5&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahal5&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's Top Languages" />
 </p>
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=abdullahal5&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=RubelCoderX&color=blueviolet)
   
 </div>
 

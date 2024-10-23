@@ -91,12 +91,12 @@
 
 <h2 align="left">📈 GitHub Stats</h2>
 
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
-  <div>
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="RubelCoderX's GitHub stats" />
   </div>
-  
-  <div>
+
+  <div style="display: inline-block; margin: 0 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="RubelCoderX's Top Languages" />
   </div>
 </div>
@@ -104,6 +104,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RubelCoderX&color=blueviolet" alt="Profile Views" />
 </div>
+
 
 <h2 align="left">🚀 Vision for 2025 to 2030 </h2>
 

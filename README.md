@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Fahim
+  Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm MD RUBEL
 </h1>
 
 <h3 align="center">

@@ -69,23 +69,24 @@
   <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
 </p>
 
-<h2 align="left">🚀 Current Overview</h2>
+<h2 align="left">🌟 Current Focus</h2>
 
 <div align="left">
-<img align="right" style="border-radius: 8px; alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img align="right" style="border-radius: 8px;" alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-### 🔭 I'm working on **Personal Projects**
+### 🚀 Working on **Exciting Personal Projects**
 
-### 🌱 I'm exploring **Advanced Web Technologies**
+### 🌱 Diving into **Cutting-Edge Web Technologies**
 
-### 👯 I'm looking to collaborate on **Open Source Projects**
+### 🤝 Open to collaborating on **Impactful Open Source Initiatives**
 
-### 🤔 I'm trying to **Help People Learn Web Development**
+### 💡 Passionate about **Helping Others Learn Web Development**
 
-### ⚡ Fun fact: **Ambivert | Gamer | Biryani Lover**
+### 🎮 Fun fact: **I like to think I'm funny | Movie Buff | Travel Enthusiast**
 
 <br>
+
 
 <h2 align="left">📈 GitHub Stats</h2>
 
@@ -103,7 +104,7 @@
   
 </div>
 
-<h2 align="left">🚀 Vision for 2025</h2>
+<h2 align="left">🚀 Vision for 2025 to 2030 </h2>
 
 <p align="center">
   💡 Deepen Expertise in Emerging Tech<br>

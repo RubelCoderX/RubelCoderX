@@ -72,7 +72,7 @@
 <h2 align="left">🌟 Current Focus</h2>
 
 <div align="left">
-  <iframe src="https://giphy.com/embed/xT1XGJEEqTOVq7IW4g" width="350" height="197" style="border-radius: 8px;" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+  <img align="right" style="border-radius: 8px;" alt="coding" width="350" src="https://giphy.com/embed/xT1XGJEEqTOVq7IW4g"/>
 </div>
 
 ### 🚀 Working on **Exciting Personal Projects**

@@ -89,7 +89,6 @@
 
 <br>
 
-
 <h2 align="left">📈 GitHub Stats</h2>
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
@@ -102,11 +101,8 @@
   </div>
 </div>
 
-
 <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=RubelCoderX&color=blueviolet)
-  
+  <img src="https://komarev.com/ghpvc/?username=RubelCoderX&color=blueviolet" alt="Profile Views" />
 </div>
 
 <h2 align="left">🚀 Vision for 2025 to 2030 </h2>

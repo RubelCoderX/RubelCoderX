@@ -67,12 +67,14 @@
   <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" alt="Vue.js Icon" />
+
 </p>
 
 <h2 align="left">🌟 Current Focus</h2>
 
 <div align="left">
-  <img align="right" style="border-radius: 8px;" alt="coding" width="350" src="https://giphy.com/embed/xT1XGJEEqTOVq7IW4g"/>
+    <img align="right" style="border-radius: 8px;" alt="coding" width="350" src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif"/>
 </div>
 
 ### 🚀 Working on **Exciting Personal Projects**

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/PjD9JLD/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Fahim's Banner" width="100%">
+  <img src="https://i.ibb.co/8YBdk6T/Purple-and-blue-Gradient-Technology-Linked-In-Background-Photo.jpg" alt="Rubel's Banner" width="100%">
 </div>
 
 <h1 align="center">

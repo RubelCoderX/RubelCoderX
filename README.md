@@ -7,12 +7,14 @@
 </h1>
 
 <h3 align="center">
-  🚀 Passionate MERN Stack Developer | 🌟 Code Enthusiast | 🌐 Web Innovator
+  💻 MERN Stack Expert | 🚀 Passionate Developer | 🌍 Crafting Web Experiences
 </h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+digital+dreams%2C+one+line+at+a+time;Turning+coffee+into+code+since+2023;MERN+stack+magician+in+the+making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Crafting+clean+code+with+passion;Innovating+the+web+one+project+at+a+time;MERN+stack+wizard+bringing+ideas+to+life" alt="Typing SVG" />
 </p>
+
 
 <h2 align="left">📊 GitHub Analytics</h2>
 
@@ -101,13 +103,13 @@
   
 </div>
 
-<h2 align="left">🎯 Goals for 2025</h2>
+<h2 align="left">🚀 Vision for 2025</h2>
 
 <p align="center">
-  🚀 Master Advanced Technologies<br>
-  📚 Contribute to Open Source Projects<br>
-  🤝 Connect with Developers Worldwide<br>
-  💼 Seeking Opportunities to Join a Dynamic Team<br>
+  💡 Deepen Expertise in Emerging Tech<br>
+  🌍 Make Meaningful Contributions to Open Source<br>
+  🤝 Expand Global Developer Network<br>
+  💼 Explore Opportunities with Forward-Thinking Teams<br>
 </p>
 
 <div align="center">

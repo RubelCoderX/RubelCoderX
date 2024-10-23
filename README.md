@@ -91,14 +91,14 @@
 
 <h2 align="left">📈 GitHub Stats</h2>
 
-<div style="text-align: center;">
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="RubelCoderX's GitHub stats" />
-  </div>
+<div >
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's GitHub stats" />
+</p>
 
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="RubelCoderX's Top Languages" />
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's Top Languages" />
+</p>
 </div>
 
 <div align="center">

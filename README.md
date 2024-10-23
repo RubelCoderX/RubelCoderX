@@ -23,20 +23,20 @@
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-al-fahim-7a5593286" target="_blank">
+  <a href="https://www.linkedin.com/in/prince-rubel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/abdullahal.fahim.9421/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100029247340444" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=abdullahalfahin183@gmail.com&su=Subject&body=Body&tf=cm">
-  <a href="https://discord.com/users/fahim4026" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mdrubel29879@gmail.com&su=Subject&body=Body&tf=cm">
+  <a href="https://discord.com/users/rubel29879" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://porfolio-teal-omega.vercel.app" target="_blank">
+  <a href="https://rubel-portfolio-one.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -50,14 +50,15 @@
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
-</p>
-<p  align="center">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/TYGqFdw/Node-js.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://i.ibb.co.com/HrkW2G7/MongoDB.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+</p>
+<p  align="center">
+ 
 </p>
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />

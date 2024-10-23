@@ -1,76 +1,116 @@
-# Hey 👋, I'm MD RUBEL
-I’m a full stack developer focused on building user-friendly and efficient web applications.
-
-## 🎓 Education
-I hold a Bachelor's degree in Computer Science and Engineering from Parul University, India. During my studies, I gained a solid foundation in programming, algorithms, and software development, which fueled my passion for building innovative web applications. I am continuously working on side projects to apply what I've learned and explore new technologies.
-
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rubel/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rubel29879) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029247340444&mibextid=zbwkwl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rubel-portfolio-one.vercel.app/)
-
----
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" height="400px" /><!-- Replace with a GIF of your choice -->
-
----
-
-## ⚡ A Few Quick Facts
-
-- 🌱 I'm currently working on improving my Vue Js skills.
-- 🧠 Learning serverless architectures and building scalable web apps.
-- 📚 I write about web development and tech on my [blog](https://www.linkedin.com/in/prince-rubel/). 
-- 💬 Ping me about web development, React, Node, and TypeScript.
-- 📄 Check out my [resume](https://rubelresume.com).
-- 🎯 Fun fact: I think I'm Funny!
-
----
-
-## 📂 Recent Projects
-- 🔗 [Car Rental Reservation](https://car-rental-reservation-client.vercel.app/)
-- 🔗 [Tech Tips Trick Hub](https://tech-tips-trick-hub-frontend-lac.vercel.app/)
-
-
----
-
-## 🛠 Top Skills
-
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
----
-
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=RubelCoderX&theme=radical&no-frame=true&row=1&column=7)](https://github.com/RubelCoderX/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; margin-bottom:10px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical" alt="Rubel's GitHub Stats" style="width: 48%; height: 200px; object-fit: cover;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RubelCoderX&theme=radical" alt="Rubel's GitHub Streak" style="width: 48%; height: 200px; object-fit: cover;" />
-</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://i.ibb.co/PjD9JLD/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Fahim's Banner" width="100%">
 </div>
 
----
+<h1 align="center">
+  Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Fahim
+</h1>
 
-## 🖥️ GitHub Profile Stats Card:
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=RubelCoderX&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/RubelCoderX?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/RubelCoderX?style=social)
+<h3 align="center">
+  🚀 Passionate MERN Stack Developer | 🌟 Code Enthusiast | 🌐 Web Innovator
+</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+digital+dreams%2C+one+line+at+a+time;Turning+coffee+into+code+since+2023;MERN+stack+magician+in+the+making" alt="Typing SVG" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=RubelCoderX&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahal5&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Fahim's GitHub streak"/>
+</p>
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-al-fahim-7a5593286" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/abdullahal.fahim.9421/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=abdullahalfahin183@gmail.com&su=Subject&body=Body&tf=cm">
+  <a href="https://discord.com/users/fahim4026" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://porfolio-teal-omega.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<h2 align="left">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://i.ibb.co.com/3YKdfJf/HTML5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://i.ibb.co.com/d2cY3XR/CSS3.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+</p>
+<p  align="center">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://i.ibb.co.com/TYGqFdw/Node-js.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://i.ibb.co.com/HrkW2G7/MongoDB.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+</p>
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+  <img src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" width="50" height="50" style="border-radius: 8px; background-color: #0D1117; padding: 7px;" />
+</p>
+
+<h2 align="left">🚀 Current Overview</h2>
+
+<div align="left">
+<img align="right" style="border-radius: 8px; alt="coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
+
+### 🔭 I'm working on **Personal Projects**
+
+### 🌱 I'm exploring **Advanced Web Technologies**
+
+### 👯 I'm looking to collaborate on **Open Source Projects**
+
+### 🤔 I'm trying to **Help People Learn Web Development**
+
+### ⚡ Fun fact: **Ambivert | Gamer | Biryani Lover**
+
+<br>
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahal5&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahal5&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's Top Languages" />
+</p>
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=abdullahal5&color=blueviolet)
+  
+</div>
+
+<h2 align="left">🎯 Goals for 2025</h2>
+
+<p align="center">
+  🚀 Master Advanced Technologies<br>
+  📚 Contribute to Open Source Projects<br>
+  🤝 Connect with Developers Worldwide<br>
+  💼 Seeking Opportunities to Join a Dynamic Team<br>
+</p>
+
+<div align="center">
+
+### Let's code the future together! 💻✨
+
+</div>

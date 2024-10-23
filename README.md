@@ -91,19 +91,20 @@
 
 <h2 align="left">📈 GitHub Stats</h2>
 
-<div >
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's GitHub stats" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=RubelCoderX&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="RubelCoderX's GitHub stats" />
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Fahim's Top Languages" />
-</p>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelCoderX&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="RubelCoderX's Top Languages" />
+  </div>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RubelCoderX&color=blueviolet" alt="Profile Views" />
 </div>
+
 
 
 <h2 align="left">🚀 Vision for 2025 to 2030 </h2>
